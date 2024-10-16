@@ -1,9 +1,10 @@
 ## Hi there 👋, my name is Khawla AAFIF
 ## 👩‍💻 I'm a passionate software developer and engineering student  with a passion for building smart solutions and tackling real-world challenges! ⚙️
-💻 As a ###full-stack developer, I enjoy exploring innovative technologies and developing intuitive applications that make life easier.
+💻 As a full-stack developer, I enjoy exploring innovative technologies and developing intuitive applications that make life easier.
 
 Here are a few technologies I work with:
 | **Python**       | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+https://camo.githubusercontent.com/1ace5f9ba73de23525fbdde4b32a1fc7990d932c49327a6bf2a7beaa28f9bbef/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d253230266d6573736167653d4d7953514c26636f6c6f723d253233343437394131266c6162656c436f6c6f723d2532336666303030303030266c6f676f3d6d7973716c
 <!--
 **KhawlaAAFIF/KhawlaAAFIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
