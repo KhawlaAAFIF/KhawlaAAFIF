@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋, my name is Khawla AAFIF
+## 👩‍💻 I'm a passionate software developer and engineering student  with a passion for building smart solutions and tackling real-world challenges! ⚙️
+💻 As a ###full-stack developer, I enjoy exploring innovative technologies and developing intuitive applications that make life easier.
 
+Here are a few technologies I work with:
+| **Python**       | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 <!--
 **KhawlaAAFIF/KhawlaAAFIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
