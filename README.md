@@ -1,6 +1,7 @@
 ## Hi there 👋, I’m **Khawla AAFIF**
 
-👩‍💻 I’m a passionate **software developer** and **engineering student** with a love for building smart, impactful solutions and tackling real-world challenges! ⚙️  
+👩‍💻 I’m a passionate **software developer** and **engineering student** with a love for building smart, impactful solutions and tackling real-world challenges! ⚙️ 
+###
 💻 As a **full-stack developer**, I enjoy exploring innovative technologies and developing intuitive, user-friendly applications that make life easier.
 
 ### Technologies I Enjoy Working With:
