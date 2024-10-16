@@ -4,7 +4,15 @@
 
 Here are a few technologies I work with:
 | **Python**       | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-https://camo.githubusercontent.com/1ace5f9ba73de23525fbdde4b32a1fc7990d932c49327a6bf2a7beaa28f9bbef/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d253230266d6573736167653d4d7953514c26636f6c6f723d253233343437394131266c6162656c436f6c6f723d2532336666303030303030266c6f676f3d6d7973716c
+| Technology      | Badge                                                                                  |
+|------------------|----------------------------------------------------------------------------------------|
+| **Java**         | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
+| **Spring Boot**  | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) |
+| **ReactJS**      | ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Next.js**      | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| **C#**           | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) |
+| **MySQL**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+
 <!--
 **KhawlaAAFIF/KhawlaAAFIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
